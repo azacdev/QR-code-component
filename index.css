@@ -6,7 +6,8 @@ body {
     background: hsl(212, 45%, 89%);
 }
 
-.info {
+.main {
+    margin-top: 50px;
     width: 350px;
     background: #ffffff;
     height: max-content;
@@ -16,12 +17,12 @@ body {
     box-shadow: -2px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-.info-details img {
+.info img {
     width: 350px;
     border-radius: 10px;
 }
 
-.info-details h2 {
+.info h2 {
     font-size: 25px;
     text-align: center;
 }
