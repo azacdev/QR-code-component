@@ -8,7 +8,7 @@ body {
 
 .main {
     margin-top: 50px;
-    width: 350px;
+    width: 260px;
     background: #ffffff;
     height: max-content;
     text-align: center;
@@ -18,16 +18,16 @@ body {
 }
 
 .info img {
-    width: 350px;
+    width: 250px;
     border-radius: 10px;
 }
 
 .info h2 {
-    font-size: 25px;
+    font-size: 23px;
     text-align: center;
 }
 
-.info-details p {
+.info p {
     font-size: 15px;
 }
 
